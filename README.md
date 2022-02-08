@@ -5,7 +5,7 @@
 * **Ability to extract data from the web using APIs & Web Scraping**
 * **Ability to create a Machine Learning/Deep Learning models to make predictions based on the data I have**
 
-**Email: martawoodkowski@gmail.com** <br>
+**Email: martachesnova@gmail.com** <br>
 **LinkedIn: [click here](https://www.linkedin.com/in/marta-woodkowski-24526185/)** 
 
 <!--
