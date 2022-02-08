@@ -1,4 +1,12 @@
-### Hi there 👋
+**Data Analyst and Engineer with 3 years of experience in the technology and business development industry. I love telling stories with data. Enjoy ETL Process and Data Analysis. Always excited to uncover some trends and make predictions. Use my creative side to put detailed and interactive visualizations & dashboards to illustrate data insights.**
+
+* **Skilled in Python, SQL, NoSQL, RDS, Spark, DataBricks, Tableau, Flask, JavaScript, HTML, CSS, Excel, VBA, and more.**<br> 
+* **Experienced in AWS and Azure.**<br>
+* **Ability to extract data from the web using APIs & Web Scraping**
+* **Ability to create a Machine Learning/Deep Learning models to make predictions based on the data I have**
+
+**Email: martawoodkowski@gmail.com** <br>
+**LinkedIn: [click here](https://www.linkedin.com/in/marta-woodkowski-24526185/)** 
 
 <!--
 **martachesnova/martachesnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
