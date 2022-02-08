@@ -6,7 +6,7 @@
 * **Ability to create a Machine Learning/Deep Learning models to make predictions based on the data I have**
 
 **Email: martachesnova@gmail.com** <br>
-**LinkedIn: [click here](https://www.linkedin.com/in/marta-woodkowski-24526185/)** 
+**LinkedIn: [click here](https://www.linkedin.com/in/marta-chesnova-24526185/)** 
 
 <!--
 **martachesnova/martachesnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
