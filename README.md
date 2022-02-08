@@ -3,7 +3,7 @@
 * **Skilled in Python, SQL, NoSQL, RDS, Spark, DataBricks, Tableau, Flask, JavaScript, HTML, CSS, Excel, VBA, and more.**<br> 
 * **Experienced in AWS and Azure.**<br>
 * **Ability to extract data from the web using APIs & Web Scraping**
-* **Ability to create a Machine Learning/Deep Learning models to make predictions based on the data I have**
+* **Ability to create a Machine Learning/Deep Learning models to make predictions**
 
 **Email: martachesnova@gmail.com** <br>
 **LinkedIn: [click here](https://www.linkedin.com/in/marta-chesnova-24526185/)** 
