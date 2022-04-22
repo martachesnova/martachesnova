@@ -1,14 +1,14 @@
-**Engineer with 3 years of experience in the technology and business development industry. I love telling stories with data. Enjoy ETL Process and Data Analysis. Always excited to uncover some trends and make predictions. Use my creative side to put detailed and interactive visualizations & dashboards to illustrate data insights.**
+**Data Engineer with 3 years of experience in the technology and business development industry. I love telling stories with data. Enjoy ETL Process and Data Analysis. Always excited to uncover some trends and make predictions. Use my creative side to put detailed and interactive visualizations & dashboards to illustrate data insights.**
 
-* **Python, SQL, NoSQL, Spark, Tableau, Flask, JavaScript, HTML, CSS, VBA, and more.**<br> 
+* **Skilled in Python, SQL, NoSQL, Spark, Tableau, Flask, JavaScript, HTML, CSS, Excel, VBA, and more.**<br> 
 * **Cloud Platforms - AWS and Azure.**<br>
-* **Experience with APIs & Web Scraping**
+* **Experienced getting data through APIs & Web Scraping**
 * **Ability to create a Machine Learning/Deep Learning models to make predictions**
 
-<-- **Email: martachesnova@gmail.com** <br> -->
 **LinkedIn: [click here](https://www.linkedin.com/in/marta-chesnova-24526185/)** 
 
 <!--
+**Email: martachesnova@gmail.com** <br>
 **martachesnova/martachesnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
