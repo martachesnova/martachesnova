@@ -1,6 +1,6 @@
 Data Engineer with 3 years of experience in the technology and business development industry. Develop automatic verification and leverage monitoring and alerting to ensure data accuracy and reliability. Build data pipelines that extract, transform raw data into usable formats, and load it where it can be accessible to make analysis and uncover trends. Collaborate with product, UI/UX, customer success, and fellow engineers to come up with solutions that meet the desired outcomes.
 
-* Python, SQL, NoSQL, Spark, Tableau, Flask, JavaScript, HTML, CSS, Excel, VBA, and more.<br> 
+* Python, SQL, NoSQL, Spark, Tableau, Flask, JavaScript, HTML, CSS, Excel, VBA, and more<br> 
 * APIs, Web Scraping<br>
 * Cloud Platforms - AWS and Azure<br>
 * Ability to create a Machine Learning/Deep Learning models to make predictions
