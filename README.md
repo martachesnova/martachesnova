@@ -5,7 +5,7 @@ Data Engineer with 3 years of experience in the technology and business developm
 * Cloud Platforms - AWS and Azure;<br>
 * Ability to create a Machine Learning/Deep Learning models to make predictions.
 
-LinkedIn --> [click here](https://www.linkedin.com/in/marta-chesnova-24526185/) 
+LinkedIn: [click here](https://www.linkedin.com/in/marta-chesnova-24526185/). 
 
 <!--
 Design robust data models for optimal storage and performance.
