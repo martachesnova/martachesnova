@@ -1,9 +1,10 @@
-A passionate Data Engineer with 3+ years of experience in the technology and business development industry.
+A passionate Data Engineer with 3+ years of experience in the technology and business development industry. Here you'll find some of my work which covers Data Engineering, Analysis and Data Science.
 
+Tools and skills used:
 * Python, SQL, NoSQL, Spark, Tableau, Flask, JavaScript, HTML, CSS, Excel, VBA, and more;<br> 
 * Cloud Platforms - AWS and Azure;<br>
-* APIs, Web Scraping;<br>
-* Machine Learning and Deep Learning models.
+* Machine Learning & Deep Learning;<br>
+* APIs, Web Scraping and more.
 
 LinkedIn: [click here](https://www.linkedin.com/in/marta-chesnova-24526185/). 
 
